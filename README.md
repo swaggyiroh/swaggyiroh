@@ -1,4 +1,3 @@
-# 💫 About Me:
 ⚡ Fun fact: TYPEWRITER is the longest word you can type using only
               the letters on one row of the keyboard. (And no … QWERTYUIOP is not a word!)(yes i found this on google)
 
