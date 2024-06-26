@@ -55,12 +55,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/swaggyiroh/swaggyiroh/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <div align="right">
   <img src="https://profile-counter.glitch.me/swaggyiroh/count.svg?"  />
 </div>
