@@ -14,7 +14,7 @@ understand the principles of their craft and learn by experience.
 Thus, programmers must understand both host and target
 computer systems, must know some theory of programming,
 and must practise programming.“
-
+- Ian Sommerville (1989)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=swaggyiroh&icon=10&color=13)](https://visitcount.itsvg.in)
